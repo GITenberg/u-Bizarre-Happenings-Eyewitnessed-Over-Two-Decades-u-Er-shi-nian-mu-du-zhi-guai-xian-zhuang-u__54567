@@ -4,6 +4,9 @@ alternative_title:
 - Bizarre Happenings Eyewitnessed Over Two Decades
 - Er shi nian mu du zhi guai xian zhuang
 - Erh-shih nien mu-tu-chih kuai hsien-chuang
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wu, Jianren
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26060
     wikipedia: http://zh.wikipedia.org/wiki/%E5%90%B3%E6%B2%83%E5%A0%AF
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54567#u-Bizarre-Happenings-Eyewitnessed-Over-Two-Decades-u-Er-shi-nian-mu-du-zhi-guai-xian-zhuang-u_
 gutenberg_issued: '2017-04-18'
 gutenberg_type: Text
 identifiers:
